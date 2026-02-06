@@ -23,7 +23,7 @@
     <div class="max-w-6xl mx-auto text-center">
         <div class="mb-8">
             <!-- Profile Picture Placeholder -->
-            <img src="{{ asset('images/profile.jpg') }}" 
+            <img src="{{ asset('images/KodiakBEARpfp.jpg') }}" 
                  alt="Profile Picture" 
                  class="w-32 h-32 rounded-full mx-auto object-cover border-4 border-blue-500 shadow-lg">
         </div>
